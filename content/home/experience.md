@@ -18,27 +18,71 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Teaching Assistant"
+  company = "Duke University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Durham, NC, USA"
+  date_start = "2019-01-01"
+  date_end = "2019-05-01"
+  description = "Statistics (STA250)"
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Intern"
+  company = "International Atomic Energy Agency"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Vienna, Austria"
+  date_start = "2018-01-01"
+  date_end = "2018-07-01"
+
+  # description = """
+  # Responsibilities include:
+
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  # """
+
+[[experience]]
+  title = "Intern"
+  company = "United Nations Environment"
+  company_url = ""
+  location = "Geneva, Switzerland"
+  date_start = "2017-02-01"
+  date_end = "2017-08-01"
+
+  # description = """
+  # Responsibilities include:
+
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  # """
+
+# [[experience]]
+ #  title = "Teaching Assistant"
+ #  company = "Korea University"
+ #  company_url = ""
+ #  location = "Seoul, South Korea"
+ #  date_start = "2015-09-01"
+ #  date_end = "2015-12-01"
+ #  description = """Introduction to Probability Theory (STAT201), 
+
+# Topics in Mathematical Statistics (STAT412)"""
+
+# [[experience]]
+ #  title = "Intern"
+ #  company = "Korea Exchange"
+ #  company_url = ""
+ #  location = "Seoul, South Korea"
+ #  date_start = "2014-06-01"
+ #  date_end = "2014-07-01"
+
+  # description = """
+  # Responsibilities include:
+
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  # """
 
 +++
