@@ -18,35 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Effects of Short-term Air Pollution on COVID-19"
-  company = "with David Dunson"
+  title = "Bag of DAGs: Flexible & Scalable Modelling of Spatiotemporal Dependence"
+  company = "with Michele Peruzzi, James E. Johndrow, and David B. Dunson"
   company_url = ""
   date_start = "2020-09-01"
   date_end = ""
-  description = """ 
+  description = """
 
-* Build a Bayesian model to predict effects of PM2.5 with and without wildfires.
+* Propose a computationally efficient approach to construct a well-defined spatial Gaussian process (GP) with the nonstationary covariance using multiple yet simple directed acyclic graphs (DAGs), which leads to computational efficiency, flexibility, and interpretability in point-referenced geostatistical models.
 
-* Include information about dynamics of wildfires and their progression into a Gaussian process (GP) using multiple directed acyclic graphs (DAG). 
+* Develop “bag of DAGs,” each of which is chosen to represent a different possible dependence structure, to induce nonstationarity.
 
-* Investigate the short-term effect of PM2.5 on respiratory diseases including COVID-19.
+* Analyze spatiotemporal variability of fine particulate matter (PM2.5) in California in which a DAG represents a prevailing wind direction causing some associated covariance in the pollutants.
+
+* Study associations between air pollution and hospital visits related to COVID-19.
+
 
 """
 
 [[experience]]
-  title = "Prediction for Per- and polyfluoroalkyl Substances in relation to Stream Networks"
-  company = "with Amy H. Herring"
+  title = "Scalable Gaussian Processes on Physically Constrained Domains"
+  company = "with Amy H. Herring and David B. Dunson"
   company_url = ""
   date_start = "2020-09-01"
   date_end = ""
 
 description = """
 
-* Develop a predictive spatial model for per- and polyfluoroalkyl substances (PFAS) in public water system (PWS) along with uncertainty quantification. 
+* Motivated by groundwater contamination in which pollutant measurements are collected and meaningful only in a constrained domain, i.e., groundwater bodies with intrinsic geometry.
 
-* Identify upstream and downstream information of PWSs in relation to the nearest stream network and construct a corresponding DAG.
+* Develop the Barrier Overlap-Removal Acyclic Directed Graph GP (BORA-GP), a scalable GP method that incorporates the constrained domain via sparsity-inducing DAGs.  
 
-* Fit a multivariate GP using the DAG, incorporating external factors such as known sources or known relationship between PFAS compounds.        
+* Enable characterization of dependence in constrained domains by removing an edge in a DAG if a linear path between two points overlaps physical barriers.
+
+* Analyze water pollutant measurements in California collected through the Groundwater Ambient Monitoring and Assessment Program (GAMA).
+
 
 """
 
@@ -62,11 +68,11 @@ description = """
 * *submitted*  https://arxiv.org/pdf/2009.08405.pdf
 
 * Adapted Bayesian heteroscedastic nonparametric regression to a multiple hypothesis testing framework.  
-* Imposed a generalized latent factor model to form a non-exchangeable prior for testing. 
-* Developed a matrix completion method for a latent matrix. 
-* Tackled sparsity of the ToxCast data using hierarchical framework. 
-* Enabled prediction for non-tested chemical’s activity. 
-* Broadened the definition of activity including heteroscedasticity. 
+* Imposed a generalized latent factor model to form a non-exchangeable prior for testing.
+* Developed a matrix completion method for a latent matrix.
+* Tackled sparsity of the ToxCast data using hierarchical framework.
+* Enabled prediction for non-tested chemical’s activity.
+* Broadened the definition of activity including heteroscedasticity.
 
 """
 
