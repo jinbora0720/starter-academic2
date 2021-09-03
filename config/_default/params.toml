@@ -105,7 +105,7 @@ phone = ""
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 # office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
-office_hours = ["Friday 13:30 to 15:00 EST"]
+office_hours = ["Tuesday 9:00 to 11:00 EST"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -115,7 +115,7 @@ office_hours = ["Friday 13:30 to 15:00 EST"]
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = ""},
-  {icon = "video", icon_pack = "fas", name = "Zoom Me", link = "https://duke.zoom.us/j/9833323036?"},
+  # {icon = "video", icon_pack = "fas", name = "Zoom Me", link = "https://duke.zoom.us/j/9833323036?"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},

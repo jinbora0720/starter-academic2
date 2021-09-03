@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a 3rd year PhD student studying statistics at Duke university.
+bio: I'm a 4th year PhD student studying statistics at Duke university.
 
 interests:
 - Environmental science
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a 3rd year PhD candidate in the Statistical Science department at Duke University under the supervision of Amy H. Herring and David B. Dunson. My research interests include Bayesian hierarchical methods and spatial/spatiotemporal modelling, with a focus on environmental applications. I care about computational efficiency, model flexibility, and interpretability. My current projects involve various hazardous substances such as toxic chemicals, air pollutants, and water pollutants.
+I'm a 4th year PhD candidate in the Statistical Science department at Duke University under the supervision of Amy H. Herring and David Dunson. My research interests include Bayesian hierarchical methods and spatial/spatiotemporal modelling, with a focus on environmental applications. I care about computational efficiency, model flexibility, and interpretability. My current projects involve various hazardous substances such as toxic chemicals, air pollutants, and water pollutants.

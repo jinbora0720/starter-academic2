@@ -27,12 +27,9 @@ date_format = "Jan 2006"
 
 * Propose a computationally efficient approach to construct a well-defined spatial Gaussian process (GP) with the nonstationary covariance using multiple yet simple directed acyclic graphs (DAGs), which leads to computational efficiency, flexibility, and interpretability in point-referenced geostatistical models.
 
-* Develop “bag of DAGs,” each of which is chosen to represent a different possible dependence structure, to induce nonstationarity.
+* Develop Bag of DAGs-Gaussian process (BDAG-GP), each DAG of which is chosen to represent a different possible dependence structure, to induce nonstationarity.
 
 * Analyze spatiotemporal variability of fine particulate matter (PM2.5) in California in which a DAG represents a prevailing wind direction causing some associated covariance in the pollutants.
-
-* Study associations between air pollution and hospital visits related to COVID-19.
-
 
 """
 
@@ -45,14 +42,13 @@ date_format = "Jan 2006"
 
 description = """
 
-* Motivated by groundwater contamination in which pollutant measurements are collected and meaningful only in a constrained domain, i.e., groundwater bodies with intrinsic geometry.
+* Motivated by applications in point-referenced geostatistics that have measurements collected and meaningful only within a constrained domain.
 
-* Develop the Barrier Overlap-Removal Acyclic Directed Graph GP (BORA-GP), a scalable GP method that incorporates the constrained domain via sparsity-inducing DAGs.  
+* Develop the Barrier Overlap-Removal Acyclic directed graph GP (BORA-GP), a scalable GP method that incorporates the constrained domain via sparsity-inducing DAGs.  
 
 * Enable characterization of dependence in constrained domains by removing an edge in a DAG if a linear path between two points overlaps physical barriers.
 
-* Analyze water pollutant measurements in California collected through the Groundwater Ambient Monitoring and Assessment Program (GAMA).
-
+* Analyze levels of chlorophyll a along the east coast of the United States.
 
 """
 

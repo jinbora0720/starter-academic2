@@ -18,13 +18,40 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Head Teaching Assistant"
+  title = "Teaching Assistant"
   company = "Duke University"
   company_url = ""
   location = "Durham, NC, USA"
-  date_start = "2021-01-01"
+  date_start = "2021-08-01"
   date_end = ""
+  description = "Case Studies in the Practice of Statistics (STA440)"
+
+[[experience]]
+  title = "Graduate Mentor"
+  company = "Duke University"
+  company_url = ""
+  location = "Online"
+  date_start = "2021-05-01"
+  date_end = "2021-05-01"
+  description = "Undergraduate Research in Statistical Science Workshop"
+
+[[experience]]
+  title = "Head Teaching Assistant"
+  company = "Duke University"
+  company_url = ""
+  location = "Online"
+  date_start = "2021-01-01"
+  date_end = "2021-05-01"
   description = "Theory and Methods of Statistical Learning and Inference (STA432)"
+
+[[experience]]
+  title = "Guest Lecture"
+  company = "Harvard University"
+  company_url = ""
+  location = "Online"
+  date_start = "2021-04-28"
+  date_end = "2021-04-28"
+  description = "Spatial Statistics (STAT141)"
 
 [[experience]]
   title = "Teaching Assistant"
@@ -74,7 +101,7 @@ date_format = "Jan 2006"
  #  location = "Seoul, South Korea"
  #  date_start = "2015-09-01"
  #  date_end = "2015-12-01"
- #  description = """Introduction to Probability Theory (STAT201), 
+ #  description = """Introduction to Probability Theory (STAT201),
 
 # Topics in Mathematical Statistics (STAT412)"""
 
