@@ -17,21 +17,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Bag of DAGs: Flexible & Scalable Modelling of Spatiotemporal Dependence"
-  company = "with Michele Peruzzi, James E. Johndrow, and David B. Dunson"
-  company_url = ""
-  date_start = "2020-09-01"
-  date_end = ""
-  description = """
-
-* Propose a computationally efficient approach to construct a well-defined spatial Gaussian process (GP) with the nonstationary covariance using multiple yet simple directed acyclic graphs (DAGs), which leads to computational efficiency, flexibility, and interpretability in point-referenced geostatistical models.
-
-* Develop Bag of DAGs-Gaussian process (BDAG-GP), each DAG of which is chosen to represent a different possible dependence structure, to induce nonstationarity.
-
-* Analyze spatiotemporal variability of fine particulate matter (PM2.5) in California in which a DAG represents a prevailing wind direction causing some associated covariance in the pollutants.
-
-"""
 
 [[experience]]
   title = "Scalable Gaussian Processes on Physically Constrained Domains"
@@ -53,6 +38,24 @@ description = """
 """
 
 [[experience]]
+  title = "Bag of DAGs: Flexible & Scalable Modeling of Spatiotemporal Dependence"
+  company = "with Michele Peruzzi and David B. Dunson"
+  company_url = ""
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+
+* *submitted*  https://arxiv.org/pdf/2112.11870.pdf
+
+* Propose a computationally efficient approach to construct a class of nonstationary spatiotemporal processes using multiple yet simple directed acyclic graphs (DAGs), which leads to computational efficiency, flexibility, and interpretability in point-referenced geostatistical models.
+
+* Develop Bag of DAGs processes (BAGs) whose nonstationarity is induced via local mixtures of DAGs. Directed edges in DAGs are alternative and competing assumptions on directional correlation patterns in space and time. 
+
+* Analyze spatiotemporal variability of fine particulate matter (PM2.5) in South Korea and California, US, in which a directed edge represents a prevailing wind direction causing some associated covariance in the pollutants.
+
+"""
+
+[[experience]]
   title = "Bayesian Matrix Completion for Hypothesis Testing"
 
 company = "with David Dunson, Julia E. Rager, David Reif, Stephanie M. Engel, Amy H. Herring"
@@ -63,12 +66,12 @@ description = """
 
 * *submitted*  https://arxiv.org/pdf/2009.08405.pdf
 
-* Adapted Bayesian heteroscedastic nonparametric regression to a multiple hypothesis testing framework.  
-* Imposed a generalized latent factor model to form a non-exchangeable prior for testing.
-* Developed a matrix completion method for a latent matrix.
-* Tackled sparsity of the ToxCast data using hierarchical framework.
-* Enabled prediction for non-tested chemical’s activity.
-* Broadened the definition of activity including heteroscedasticity.
+* Adapt Bayesian heteroscedastic nonparametric regression to a multiple hypothesis testing framework.  
+* Impose a generalized latent factor model to form a non-exchangeable prior for testing.
+* Develop a matrix completion method for a latent matrix.
+* Tackle sparsity of the ToxCast data using hierarchical framework.
+* Enable prediction for non-tested chemical’s activity.
+* Broaden the definition of activity including heteroscedasticity.
 
 """
 
