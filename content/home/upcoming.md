@@ -26,9 +26,12 @@ date_format = "Jan 2006"
   date_start = "2022-05-01"
   date_end = "2022-06-01"
   description = """
-  * 2022 Summer School
-  * Lectures: 9:30am - 10:45am (Mon - Fri)
-  * Labs: 11am - 12:15pm (Tue & Fri)
-  * Course website will be available soon"""
- 
+  * 2022 Summer Session I
+  * Course website will be available soon
+  * Course trailer 
+  <p align = "center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wi5jVRtYoIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
+  """
+
 +++
