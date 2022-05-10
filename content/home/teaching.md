@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Upcoming"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Introduction to Data Science and Statistical Thinking (STA119)"
+  title = "Introduction to Data Science and Statistical Thinking (STA199)"
   company = "Instructor"
   company_url = ""
   location = "Duke University"
@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   date_end = "2022-06-01"
   description = """
   * 2022 Summer Session I
-  * Course website will be available soon
-  * Course trailer 
-  <p align = "center">
+  * [Course website](https://sta199-summer22.netlify.app/)
+  * Course trailer
+  # <p align = "center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wi5jVRtYoIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
   """
