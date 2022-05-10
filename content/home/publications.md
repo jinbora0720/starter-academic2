@@ -63,7 +63,7 @@ subtitle = ""
 
 [advanced]
 
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
 
  # CSS class.
@@ -78,4 +78,3 @@ Title = "Bayesian Matrix Completion for Hypothesis Testing"
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
-
