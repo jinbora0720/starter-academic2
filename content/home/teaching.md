@@ -30,7 +30,8 @@ date_format = "Jan 2006"
   * [Course trailer](https://www.youtube.com/embed/wi5jVRtYoIo)
   * [Course website](https://sta199-summer22.netlify.app/)
 
-![teaching](/img/STA199_teaching2.jpg)
+![teaching](/media/STA199_teaching3.png)
+
   """
 
 +++
