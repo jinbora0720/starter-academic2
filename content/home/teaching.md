@@ -27,11 +27,10 @@ date_format = "Jan 2006"
   date_end = "2022-06-01"
   description = """
   * 2022 Summer Session I
+  * [Course trailer](https://www.youtube.com/embed/wi5jVRtYoIo)
   * [Course website](https://sta199-summer22.netlify.app/)
-  * Course trailer
-  # <p align = "center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/wi5jVRtYoIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </p>
+
+![teaching](/img/STA199_teaching2.jpg)
   """
 
 +++
