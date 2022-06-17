@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -31,7 +31,55 @@ date_format = "Jan 2006"
   * [Course website](https://sta199-summer22.netlify.app/)
 
 ![teaching](/media/STA199_teaching3.png)
+"""
 
-  """
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Duke University"
+  company_url = ""
+  location = "Durham, NC, USA"
+  date_start = "2021-08-01"
+  date_end = "2021-12-01"
+  description = "Case Studies in the Practice of Statistics (STA440)"
+
+[[experience]]
+  title = "Head Teaching Assistant"
+  company = "Duke University"
+  company_url = ""
+  location = "Online"
+  date_start = "2021-01-01"
+  date_end = "2021-05-01"
+  description = "Theory and Methods of Statistical Learning and Inference (STA432)"
+
+[[experience]]
+  title = "Guest Lecture"
+  company = "Harvard University"
+  company_url = ""
+  location = "Online"
+  date_start = "2021-04-28"
+  date_end = "2021-04-28"
+  description = "Spatial Statistics (STAT141)"
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Duke University"
+  company_url = ""
+  location = "Durham, NC, USA"
+  date_start = "2019-01-01"
+  date_end = "2019-05-01"
+  description = "Statistics (STA250)"
+
+#[[experience]]
+#  title = "Teaching Assistant"
+#  company = "Korea University"
+#  company_url = ""
+#  location = "Seoul, South Korea"
+#  date_start = "2015-09-01"
+#  date_end = "2015-12-01"
+#  description = """
+#  * Introduction to Probability Theory (STAT201)
+#  * Topics in Mathematical Statistics (STAT412)
+#  """
+
 
 +++

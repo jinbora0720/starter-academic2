@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Current Research"
 subtitle = ""
@@ -49,7 +49,7 @@ description = """
 
 * Propose a computationally efficient approach to construct a class of nonstationary spatiotemporal processes using multiple yet simple directed acyclic graphs (DAGs), which leads to computational efficiency, flexibility, and interpretability in point-referenced geostatistical models.
 
-* Develop Bag of DAGs processes (BAGs) whose nonstationarity is induced via local mixtures of DAGs. Directed edges in DAGs are alternative and competing assumptions on directional correlation patterns in space and time. 
+* Develop Bag of DAGs processes (BAGs) whose nonstationarity is induced via local mixtures of DAGs. Directed edges in DAGs are alternative and competing assumptions on directional correlation patterns in space and time.
 
 * Analyze spatiotemporal variability of fine particulate matter (PM2.5) in South Korea and California, US, in which a directed edge represents a prevailing wind direction causing some associated covariance in the pollutants.
 
