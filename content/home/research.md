@@ -38,14 +38,18 @@ description = """
 """
 
 [[experience]]
-  title = "Bag of DAGs: Flexible & Scalable Modeling of Spatiotemporal Dependence"
+  title = "Bag of DAGs: Flexible Nonstationary Modeling of Spatiotemporal Dependence"
   company = "with Michele Peruzzi and David B. Dunson"
   company_url = ""
   date_start = "2020-09-01"
   date_end = ""
   description = """
 
-* *submitted*  https://arxiv.org/pdf/2112.11870.pdf
+* https://doi.org/10.48550/arXiv.2112.11870
+
+* An R package [bags](https://github.com/jinbora0720/bags)
+
+* [Simple example demonstration](/media/BAGs/example.html)
 
 * Propose a computationally efficient approach to construct a class of nonstationary spatiotemporal processes using multiple yet simple directed acyclic graphs (DAGs), which leads to computational efficiency, flexibility, and interpretability in point-referenced geostatistical models.
 
@@ -64,7 +68,7 @@ company = "with David Dunson, Julia E. Rager, David Reif, Stephanie M. Engel, Am
 
 description = """
 
-* *submitted*  https://arxiv.org/pdf/2009.08405.pdf
+* https://doi.org/10.48550/arXiv.2009.08405
 
 * Adapt Bayesian heteroscedastic nonparametric regression to a multiple hypothesis testing framework.  
 * Impose a generalized latent factor model to form a non-exchangeable prior for testing.
