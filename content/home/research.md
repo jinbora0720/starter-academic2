@@ -47,7 +47,7 @@ description = """
 
 * https://doi.org/10.48550/arXiv.2112.11870
 
-* An R package [bags](https://github.com/jinbora0720/bags)
+* R package [bags](https://github.com/jinbora0720/bags)
 
 * [Simple example demonstration](/media/BAGs/example.html)
 
