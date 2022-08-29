@@ -19,7 +19,6 @@ bio: I'm a 5th year PhD student studying statistics at Duke university.
 interests:
 - Environmental science
 - Spatial statistics
-- Multivariate methods
 - Hierarchical framework
 - Latent variables
 - Bayesian methods
