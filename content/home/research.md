@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 description = """
 
 * Incorporate interactions among species to increase interpretability of a joint species distribution model.
-* Separate dependence in co-occurrences of multiple species into two parts: one part attributable to shared latent factors such as habitat conditions and the other attributable to between-group interactions encoded in a precision matrix with a sparsity structure.
+* Separate dependence in co-occurrences of multiple species into two parts: one part attributable to shared latent factors such as habitat conditions and the other attributable to between-group interactions encoded in an undirected graph.
 
 """
 
