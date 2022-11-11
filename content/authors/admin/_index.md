@@ -17,21 +17,22 @@ organizations:
 bio: I'm a 5th year PhD student studying statistics at Duke university.
 
 interests:
-- Environmental science
+- Environmental health
 - Spatial statistics
-- Hierarchical framework
-- Latent variables
+- Hierarchical models
+- Latent factor models
 - Bayesian methods
+- Causal inference
 
 education:
   courses:
-  - course: PhD in Statistical Science
+  - course: Ph.D. in Statistics
     institution: Duke University
     year: 2023 (expected)
-  - course: Master's in Statistics
+  - course: M.A. in Statistics
     institution: Korea University
     year: 2017
-  - course: Bachelor's in Statistics
+  - course: B.A. in Statistics
     institution: Korea University
     year: 2015
 
@@ -72,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a 5th year PhD candidate in the Statistical Science department at Duke University under the supervision of Amy H. Herring and David Dunson. My research interests include Bayesian hierarchical methods and spatial/spatiotemporal modelling, with a focus on environmental applications. I care about computational efficiency, model flexibility, and interpretability. My current projects involve various hazardous substances such as toxic chemicals, air pollutants, and water pollutants.
+I'm a 5th year Ph.D. candidate in the department of statistical science at Duke university under the supervision of Amy H. Herring and David Dunson. My research interests include Bayesian hierarchical methods and spatial modeling, with a focus on environmental applications. I care about computational efficiency, model flexibility, and interpretability.
