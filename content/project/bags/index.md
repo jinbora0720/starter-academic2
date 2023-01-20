@@ -27,8 +27,8 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: "https://github.com/jinbora0720/GBAGs"
-url_pdf: "https://doi.org/10.48550/arXiv.2112.11870"
+url_code: https://github.com/jinbora0720/GBAGs
+url_pdf: https://doi.org/10.48550/arXiv.2112.11870
 url_slides: ""
 url_video: ""
 
