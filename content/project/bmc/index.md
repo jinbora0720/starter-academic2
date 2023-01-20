@@ -21,14 +21,17 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: PDF
+    url: https://doi.org/10.48550/arXiv.2009.08405
 
-url_code: "https://github.com/jinbora0720/BMC"
-url_pdf: "https://doi.org/10.48550/arXiv.2009.08405"
+  - name: Code
+    url: https://github.com/jinbora0720/BMC
+    #icon_pack: fab
+    #icon: twitter
+
+#url_code: "https://github.com/jinbora0720/BMC"
+#url_pdf: "https://doi.org/10.48550/arXiv.2009.08405"
 url_slides: ""
 url_video: ""
 
