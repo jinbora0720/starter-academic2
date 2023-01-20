@@ -21,14 +21,20 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+  - name: PDF
+    url: https://doi.org/10.48550/arXiv.2112.11870
 
-url_code: https://github.com/jinbora0720/GBAGs
-url_pdf: https://doi.org/10.48550/arXiv.2112.11870
+  - name: Code
+    url: https://github.com/jinbora0720/GBAGs
+    #icon_pack: fab
+    #icon: twitter
+
+  - name: R package
+    url: https://github.com/jinbora0720/bags
+
+#url_code: "https://github.com/jinbora0720/GBAGs"
+#url_pdf: "https://doi.org/10.48550/arXiv.2112.11870"
 url_slides: ""
 url_video: ""
 
@@ -39,8 +45,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-* R package [bags](https://github.com/jinbora0720/bags)
 
 * [Simple example demonstration](/media/BAGs/example.html)
 
