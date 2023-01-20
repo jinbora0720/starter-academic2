@@ -19,10 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Teaching Assistant"
+  location = "Duke University"
+  date_start = "2023-01-01"
+  date_end = ""
+  description = "Spatial Topics: Latent Process Modeling (STA 790-1)"
+
+[[experience]]
   title = "Teaching Assistant and Course Organizer"
   location = "Duke University"
   date_start = "2022-08-01"
-  date_end = ""
+  date_end = "2022-12-01"
   description = "Introduction to Data Science and Statistical Thinking (STA199)"
 
 [[experience]]
