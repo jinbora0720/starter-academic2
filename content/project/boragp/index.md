@@ -6,7 +6,7 @@ summary: "Spatial statistics, Nonstationarity"
 authors: [Bora Jin, Amy H. Herring, and David Dunson]
 tags: [Spatial statistics, Nonstationarity]
 categories: []
-date: 2023-01-20T12:55:05-05:00
+date: 2023-01-20T12:55:06-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

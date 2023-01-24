@@ -6,7 +6,7 @@ summary: "Functional data analysis, Latent factor modeling"
 authors: [Bora Jin, David Dunson, Julia E. Rager, David Reif, Stephanie M. Engel, Amy H. Herring]
 tags: [Functional data analysis, Latent factor modeling]
 categories: []
-date: 2023-01-20T12:55:04-05:00
+date: 2023-01-20T12:55:05-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
