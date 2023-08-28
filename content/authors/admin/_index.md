@@ -6,15 +6,15 @@ title: Bora Jin
 superuser: true
 
 # Role/position
-role: Statistical Science PhD Student
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Duke University
+- name: Johns Hopkins University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a 5th year PhD student studying statistics at Duke university.
+bio: I'm a postdoctoral fellow in the department of Biostatistics at Johns Hopkins University.
 
 interests:
 - Environmental health
@@ -28,7 +28,7 @@ education:
   courses:
   - course: Ph.D. in Statistics
     institution: Duke University
-    year: 2023 (expected)
+    year: 2023
   - course: M.A. in Statistics
     institution: Korea University
     year: 2017
@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   # link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: mailto:bora.jin@duke.edu
+  link: mailto:bjin9@jh.edu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bora-jin-724aa1140/
@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a 5th year Ph.D. candidate in the department of statistical science at Duke university under the supervision of Amy H. Herring and David Dunson. My research interests include Bayesian hierarchical methods and spatial modeling, with a focus on environmental applications. I care about computational efficiency, model flexibility, and interpretability.
+I'm a postdoctoral fellow working with Abhirup Datta in the department of Biostatistics at Johns Hopkins University. I received my PhD in Statistical Science from Duke University under the supervision of Amy H. Herring and David Dunson. My research interests include Bayesian hierarchical methods and spatial modeling, with a focus on environmental applications. I care about computational efficiency, model flexibility, and interpretability.

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Nearly Orthogonal Processes to Overcome Spatial Confounding"
+title: "A Unified Bayesian Approach to Overcome Spatial Confounding"
 summary: "Spatial statistics, Causal inference"
 authors: [Bora Jin, David Dunson]
 tags: [Spatial statistics, Causal inference]
@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-* Tackle spatial confounding between covariates and spatial random effects in regression models for point-referenced data.
+* Alleviate spatial confounding between covariates and spatial random effects in models for point-referenced data.
 
-* Propose nearly orthogonal processes to alleviate spatial confounding and overcome known issues of restricted spatial regression models. 
+* Propose a Bayesian approach whose primary objective is accurate estimation of the fixed effects in terms of bias and coverage, retaining all spatial signals in the data.  

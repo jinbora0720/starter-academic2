@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   title = "Teaching Assistant"
   location = "Duke University"
   date_start = "2023-01-01"
-  date_end = ""
+  date_end = "2023-05-01"
   description = "Spatial Topics: Latent Process Modeling (STA 790-1)"
 
 [[experience]]
