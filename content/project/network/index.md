@@ -6,7 +6,7 @@ summary: "Network, Latent factor modeling"
 authors: [Jennifer Kampe, Bora Jin, and David Dunson]
 tags: [Network, Latent factor modeling]
 categories: []
-date: 2023-01-20T12:55:01-05:00
+date: 2023-12-19T12:55:45-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

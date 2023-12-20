@@ -6,7 +6,7 @@ summary: "HMSC, Network"
 authors: [Bora Jin, Jennifer Kampe, Gleb Tikhonov, David Dunson, and Otso Ovaskainen]
 tags: [HMSC, Network]
 categories: []
-date: 2023-01-20T12:55:02-05:00
+date: 3023-01-20T12:55:02-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

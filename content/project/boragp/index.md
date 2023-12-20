@@ -6,7 +6,7 @@ summary: "Spatial statistics, Nonstationarity"
 authors: [Bora Jin, Amy H. Herring, and David Dunson]
 tags: [Spatial statistics, Nonstationarity]
 categories: []
-date: 2023-01-20T12:55:06-05:00
+date: 2023-12-19T12:55:30-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -53,3 +53,5 @@ slides: ""
 * Enable characterization of dependence in constrained domains by removing an edge in a DAG if a linear path between two points overlaps physical barriers.
 
 * Analyze sea surface salinity in the Arctic Ocean.
+
+* To appear in *Annals of Applied Statistics*.

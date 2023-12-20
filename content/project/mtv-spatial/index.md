@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Effects of PFAS on North Carolina Thyroid Cancer Clusters"
-summary: "Spatial statistics, Causal inference"
-authors: [Bora Jin, James Matuk, Amy H. Herring, and Kate Hoffman]
-tags: [Spatial statistics, Causal inference]
+title: "Bayesian Spanning Tree-based Multivariate Spatial Model"
+summary: "Spanning tree, Multivariate, Spatial statistics"
+authors: [Bora Jin and Abhirup Datta]
+tags: [Spatial statistics]
 categories: []
-date: 3023-01-20T12:55:03-05:00
+date: 2023-12-19T12:55:59-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,5 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-* Identify thyroid cancer clusters in North Carolina.
-* Reveal spatial, causal, and socioeconomic relationships between the cancer clusters and PFAS in drinking water.
+* Aim to develop a method for highly multivariate (large p) and huge (large n) spatial data, which infers relationships among variables through a inter-variable graph.
+
+* Learn a backbone of the inter-variable graph defined as a minimum spanning tree of the true graph, using a Bayesian spanning tree-based approach.

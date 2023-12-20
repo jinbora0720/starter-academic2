@@ -3,10 +3,10 @@
 
 title: "A Unified Bayesian Approach to Overcome Spatial Confounding"
 summary: "Spatial statistics, Causal inference"
-authors: [Bora Jin, David Dunson]
+authors: [Bora Jin, Georgia Papadogeorgou, David Dunson]
 tags: [Spatial statistics, Causal inference]
 categories: []
-date: 2023-01-20T12:55:04-05:00
+date: 2023-12-19T12:55:50-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

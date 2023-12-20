@@ -49,4 +49,4 @@ slides: ""
 * Tackle sparsity of the ToxCast data using hierarchical framework.
 * Enable prediction for non-tested chemical’s activity.
 * Broaden the definition of activity including heteroscedasticity.
-* To appear in *Journal of the Royal Statistical Science: Series C*.
+* Published in *Journal of the Royal Statistical Science: Series C*.

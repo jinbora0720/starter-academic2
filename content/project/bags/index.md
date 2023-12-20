@@ -6,7 +6,7 @@ summary: "Spatial statistics, Nonstationarity"
 authors: [Bora Jin, Michele Peruzzi, and David Dunson]
 tags: [Spatial statistics, Nonstationarity]
 categories: []
-date: 2023-01-20T12:55:07-05:00
+date: 2023-12-19T12:55:40-05:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
