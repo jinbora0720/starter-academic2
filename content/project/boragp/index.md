@@ -54,4 +54,4 @@ slides: ""
 
 * Analyze sea surface salinity in the Arctic Ocean.
 
-* To appear in *Annals of Applied Statistics*.
+* Published in *Annals of Applied Statistics*.
