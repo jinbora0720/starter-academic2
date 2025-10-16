@@ -3,7 +3,7 @@
 
 title: "Spatial Predictions on Physically Constrained Domains: Applications to Arctic Sea Salinity Data"
 summary: "Spatial statistics, Nonstationarity"
-authors: [Bora Jin, Amy H. Herring, and David Dunson]
+authors: [Bora Jin, Amy H. Herring, David Dunson]
 tags: [Spatial statistics, Nonstationarity]
 categories: []
 date: 2023-12-19T12:55:30-05:00

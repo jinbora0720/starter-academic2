@@ -3,7 +3,7 @@
 
 title: "Bag of DAGs: Inferring Directional Dependence in Spatiotemporal Processes"
 summary: "Spatial statistics, Nonstationarity"
-authors: [Bora Jin, Michele Peruzzi, and David Dunson]
+authors: [Bora Jin, Michele Peruzzi, David Dunson]
 tags: [Spatial statistics, Nonstationarity]
 categories: []
 date: 2023-12-19T12:55:40-05:00

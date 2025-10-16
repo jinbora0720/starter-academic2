@@ -22,7 +22,7 @@ interests:
 - Hierarchical models
 - Latent factor models
 - Bayesian methods
-- Causal inference
+# - Causal inference
 
 education:
   courses:

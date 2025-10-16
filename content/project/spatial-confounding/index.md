@@ -6,7 +6,7 @@ summary: "Spatial statistics, Causal inference"
 authors: [Bora Jin, Georgia Papadogeorgou, David Dunson]
 tags: [Spatial statistics, Causal inference]
 categories: []
-date: 2023-12-19T12:55:50-05:00
+date: 2025-10-02
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
