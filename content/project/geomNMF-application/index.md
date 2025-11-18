@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Community Air Monitoring Meets Geometric Non-negative Matrix Factorization: Source Attributions in Curtis Bay"
+title: "Use of multi-pollutant air sensor data and geometric non-negative matrix factorization for source apportionment of air pollution burden in Curtis Bay, Baltimore, USA"
 summary: "Non-negative matrix factorization, Source apportionment, Identifiability"
-authors: [Bora Jin, Bonita Salmerón, David McClosky, David Hagan, Russell Dickerson, Matthew Aubourg, Ryan Auvil, Laura Schmidt, Gregory Sawtell, Christopher Heaney, Abhirup Datta]
+authors: [Bora Jin, Bonita D. Salmerón, David McClosky, David H. Hagan, Russell R. Dickerson, Nicholas J. Spada, Lauren N. Deans, Matthew A. Aubourg, Laura E. Schmidt, Gregory G. Sawtell, Christopher D. Heaney, Abhirup Datta]
 tags: [Non-negative matrix factorization, Source apportionment, Identifiability]
 categories: []
 date: 2025-10-04
@@ -27,6 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+  - name: PDF
+    url: https://doi.org/10.48550/arXiv.2511.11833
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -40,6 +44,6 @@ url_video: ""
 slides: ""
 ---
 
-* Identify major sources for particular matters, black carbon, and gases in Curtis Bay, Baltimore.
+* Identify major sources (traffic and coal terminal activities) for particular matters, black carbon, and gases in Curtis Bay, Baltimore.
 
-* Apply a geometric source apportionment approach yielding a population-level estimand with consistency guarantee.
+* Apply a geometric source apportionment approach to provide scalable and reliable evidence to inform mitigation strategies for a longstanding community-raised air quality concern.

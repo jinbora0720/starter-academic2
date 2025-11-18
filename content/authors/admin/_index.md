@@ -17,11 +17,11 @@ organizations:
 bio: I'm a postdoctoral fellow in the department of Biostatistics at Johns Hopkins University.
 
 interests:
-- Environmental health
 - Spatial statistics
+- Bayesian methods
 - Hierarchical models
 - Latent factor models
-- Bayesian methods
+- Environmental health
 # - Causal inference
 
 education:

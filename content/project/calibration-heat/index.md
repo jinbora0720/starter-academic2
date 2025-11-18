@@ -5,7 +5,7 @@ summary: "Low-cost sensors, Calibration"
 authors: [Bora Jin, Ali Eyni, Darryn Waugh, Abhirup Datta]
 tags: [Low-cost sensors, Calibration]
 categories: []
-date: 2025-10-03
+date: 2025-10-07
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
