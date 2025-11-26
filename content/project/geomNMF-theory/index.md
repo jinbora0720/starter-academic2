@@ -30,6 +30,8 @@ image:
 links:
   - name: PDF
     url: https://doi.org/10.48550/arXiv.2510.03616
+  - name: Code
+    url: https://github.com/jinbora0720/GeomNMF.git
 
 url_code: ""
 url_pdf: ""
