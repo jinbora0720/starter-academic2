@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Use of Multi-pollutant Air Sensor Data and Geometric Non-negative Matrix Factorization for Source Apportionment of Air Pollution Burden in Curtis Bay, Baltimore, USA"
+title: "Source Apportionment of Air Pollution Burden Using Geometric Non-negative Matrix Factorization and High-throughput Multi-pollutant Air Sensor Data in Curtis Bay, Baltimore, USA"
 summary: "Non-negative matrix factorization, Source apportionment, Identifiability"
 authors: [Bora Jin, Bonita D. Salmerón, David McClosky, David H. Hagan, Russell R. Dickerson, Nicholas J. Spada, Lauren N. Deans, Matthew A. Aubourg, Laura E. Schmidt, Gregory G. Sawtell, Christopher D. Heaney, Abhirup Datta]
 tags: [Non-negative matrix factorization, Source apportionment, Identifiability]
